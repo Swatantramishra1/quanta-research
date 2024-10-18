@@ -3,8 +3,8 @@
 // Google maps pin tooltip  
     var markers = [
         {
-            "lat": '34.027973',
-           "lng": '-118.242217',
+            "lat": '25.5236813',
+           "lng": '81.8613934',
           
             "description": 'Pixelthemez <br/><a target="_blank" href="https://themeforest.net/user/pixelthemez/portfolio">Get it now</a>'
         }

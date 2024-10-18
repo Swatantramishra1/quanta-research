@@ -1123,6 +1123,10 @@ img.tst-bg {
   color: rgba(255, 255, 255, 0.8);
 }
 
+.footer-link .content {
+  color: var(--primary-color);
+}
+
 .fz-14 {
   font-size: 14px;
 }
@@ -2503,4 +2507,9 @@ h4.comment-title {
 .checkbox-inline input[type="checkbox"] {
   margin-right: 8px;
   width: auto;
+}
+
+
+.white {
+  color: white;
 }
